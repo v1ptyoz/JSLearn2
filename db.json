@@ -22,11 +22,5 @@
       "price": 21
     }
   ],
-  "requests": [
-    {
-      "name": "sadfasf",
-      "phone": "2341234",
-      "id": 1
-    }
-  ]
+  "requests": []
 }
